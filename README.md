@@ -51,7 +51,8 @@ We will use postman to check the api is working or not,So download postman on yo
 
 
 ### Author
-(@SachinKrSundram)[https://github.com/SachinKrSundram]
+
+[@SachinKrSundram](https://github.com/SachinKrSundram)
 
 
 
