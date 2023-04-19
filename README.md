@@ -26,27 +26,33 @@ We will use postman to check the api is working or not,So download postman on yo
 
 1.Now use this **http://localhost:5000/api/v1/doctors/register** route to register doctor in API and add the info as shown in image
 
-![image](https://user-images.githubusercontent.com/70103005/177214903-3c02cf1b-85eb-4a99-acf1-c18f084f8242.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/99536825/233152421-f7d0857f-311f-4d57-a19b-46bafc4bf02a.png)
+
 
 2.Use this **http://localhost:5000/api/v1/doctors/login** to login as a doctor and add info as shown in image
 
-![image](https://user-images.githubusercontent.com/70103005/177215328-258a4f89-7b1d-4001-bb02-d7865cb5176a.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/99536825/233152486-0bfb8dcd-d889-4004-a43e-498f3e271a93.png)
+
 
 3.Use this **http://localhost:5000/api/v1/patients/register** and add the token in authorization area which is recieved in second point
 
-![image](https://user-images.githubusercontent.com/70103005/177215565-d872afb3-cff2-4cf0-9944-b5d3da469223.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/99536825/233152570-37706531-6060-4ad8-8c9c-feb593eb7552.png)
+
 
 4. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/create_report** to create report and add status you can see the types of 
    status in report model.
 
-![image](https://user-images.githubusercontent.com/70103005/177215702-b8412d94-e56a-48ed-9694-6809e7b986a7.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/99536825/233152807-55e99777-cad0-4cb7-a6e5-082ed98a8994.png)
 
-5.Use this **http://localhost:5000/api/v1/doctors/register** to register patient
 
-![image](https://user-images.githubusercontent.com/70103005/177215836-3312bd1f-5cf2-4792-ac02-d2c340f916b5.png)
+5. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/all_reports** to get all the reports.
 
-6. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/all_reports** to get all the reports.
+![Screenshot (177)](https://user-images.githubusercontent.com/99536825/233153796-ebf07eb6-4c07-4169-98b7-f09f6fbcf491.png)
 
-![image](https://user-images.githubusercontent.com/70103005/177216169-b17c31c4-6219-460a-a93f-b77588d6b9b6.png)
+
+### Author
+(@SachinKrSundram)[https://github.com/SachinKrSundram]
+
+
 
 
